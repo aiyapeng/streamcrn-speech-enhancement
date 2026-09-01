@@ -19,6 +19,14 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
+## 快速示例
+
+```bash
+python demo/run_demo.py
+```
+
+可直接对比 [`带噪输入`](demo/noisy_input.wav?raw=1)、[`增强输出`](demo/enhanced_output.wav?raw=1) 和 [`干净参考`](demo/clean_reference.wav?raw=1)。示例构造与指标见 [`demo/`](demo/README.md)。
+
 ## 流式推理
 
 ```bash

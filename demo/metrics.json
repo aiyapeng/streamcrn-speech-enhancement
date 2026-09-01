@@ -1,0 +1,9 @@
+{
+  "sample_rate": 16000,
+  "target_input_snr_db": 3.0,
+  "input_si_sdr_db": 3.0584798770475823,
+  "output_si_sdr_db": 11.292847281596304,
+  "si_sdr_improvement_db": 8.23436740454872,
+  "algorithmic_latency_ms": 32.0,
+  "finite_output": true
+}

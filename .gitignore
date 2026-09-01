@@ -9,5 +9,6 @@ runs/
 outputs/
 logs/
 *.wav
+!demo/*.wav
 *.flac
 *.onnx
