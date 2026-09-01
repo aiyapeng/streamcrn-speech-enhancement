@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+data/
+datasets/
+runs/
+outputs/
+logs/
+*.wav
+*.flac
+*.onnx

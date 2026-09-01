@@ -1,0 +1,16 @@
+# 核心
+torch>=2.1,<2.9
+torchaudio>=2.1,<2.9
+numpy>=1.24
+scipy>=1.10
+
+# 评测指标
+pesq>=0.0.4
+pystoi>=0.3.3
+
+# 部署（ONNX 导出与推理）
+onnx>=1.15,<2
+onnxruntime>=1.16,<2
+
+# 实时麦克风 demo（可选）
+sounddevice>=0.4
